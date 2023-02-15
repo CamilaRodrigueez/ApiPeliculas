@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IPCejViWBO/fPRWS+8X6vuqUyByD/v5HFOEgDk5YKDg=",
+  "Source": "ApiPeliculas",
+  "BasePath": "_content/ApiPeliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

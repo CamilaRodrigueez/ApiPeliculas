@@ -1,0 +1,158 @@
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\appsettings.json
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.exe
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.deps.json
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.runtimeconfig.json
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.pdb
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.csproj.AssemblyReference.cache
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.AssemblyInfoInputs.cache
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.AssemblyInfo.cs
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.ApiPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiPeliculas.props
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiPeliculas.props
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiPeliculas.props
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\scopedcss\bundle\ApiPeliculas.styles.css
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.csproj.CopyComplete
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\refint\ApiPeliculas.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.pdb
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.genruntimeconfig.cache
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ref\ApiPeliculas.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Humanizer.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\camila.rodriguez\OneDrive - NEORIS\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\appsettings.Development.json
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\appsettings.json
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.exe
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.deps.json
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.runtimeconfig.json
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\ApiPeliculas.pdb
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Azure.Core.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Azure.Identity.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Humanizer.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.CodeDom.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.csproj.AssemblyReference.cache
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.AssemblyInfoInputs.cache
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.AssemblyInfo.cs
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.csproj.CoreCompileInputs.cache
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.MvcApplicationPartsAssemblyInfo.cs
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.MvcApplicationPartsAssemblyInfo.cache
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.ApiPeliculas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiPeliculas.props
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiPeliculas.props
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiPeliculas.props
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets.build.json
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\staticwebassets.development.json
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\scopedcss\bundle\ApiPeliculas.styles.css
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.csproj.CopyComplete
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\refint\ApiPeliculas.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.pdb
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ApiPeliculas.genruntimeconfig.cache
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\obj\Debug\net7.0\ref\ApiPeliculas.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\AutoMapper.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.Practices.ServiceLocation.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\XAct.Core.PCL.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Curso_Api_RESTFULL\Api\ApiPeliculas\ApiPeliculas\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
