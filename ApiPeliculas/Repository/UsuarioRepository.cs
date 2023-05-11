@@ -106,8 +106,8 @@ namespace ApiPeliculas.Repository
                     await _roleManager.CreateAsync(new IdentityRole("admin"));
                     await _roleManager.CreateAsync(new IdentityRole("registrado"));
                 }
-
-                await _userManager.AddToRoleAsync(usuario, "admin");
+                //Se asigna rol al usuario
+                await _userManager.AddToRoleAsync(usuario, "registrado");
 
                 var usuarioRetornado = _dbcontext.AppUser.FirstOrDefault(u
                     => u.UserName == usuarioRegisterDto.NombreUsuario);
@@ -123,7 +123,7 @@ namespace ApiPeliculas.Repository
 
                 return _mapper.Map<UsuarioDatosDto>(usuarioRetornado);
             }
-             return new UsuarioDatosDto();
+             return null;
         }
 
         public async Task<UsuarioLoginResponseDto> Login(UsuarioLoginDto usuarioLoginDto)

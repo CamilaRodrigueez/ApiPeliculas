@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "Lista de Categorias";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <h2 class="text-primary">Lista de Categorias</h2>
+        </div>
+        <div class="col-6">
+            <a asp-action="Create" class="btn btn-success text-white"><i class="fa-solid fa-plus"></i> Nueva Categoria</a>
+        </div>
+
+    </div>
+
+    <br />
+    <br />
+    <div class="p-3">
+        <table id="tblCategorias" class="table table-striped table-bordered" style="width:100%">
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>Nombre</td>
+                    <td>Fecha creación</td>
+                    <td>Acciones</td>
+                </tr>
+            </thead>
+        </table>
+    </div>
+
+</div>
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="~/js/categorias.js"></script>
+}

@@ -1,0 +1,81 @@
+﻿@model PeliculasWeb.Models.ViewModels.IndexVM
+@{
+    ViewData["Title"] = "Página de inicio";
+}
+
+<div class="row mt-4">
+    <div class="col-sm-12">
+        @if (TempData["success"] != null)
+        {
+            <div class="alert alert-success  alert-dismissible fade show" role="alert">
+                <strong>@TempData["success"]</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-6 offset-3">
+        <h2 class="text-center">Últimas Películas</h2>
+    </div>
+</div>
+
+<div class="row  mt-2">
+    <div class="col-md-4 offset-md-4">
+        <div class="dropdown">
+            <a class="btn btn-secondary dropdown-toggle  w-100" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                Categorías
+            </a>
+
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                 @foreach (var categoria in Model.ListaCategorias)
+                {
+                    <li><a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="IndexCategoria" asp-route-id="@categoria.Id">@categoria.Nombre</a></li>
+                }
+                
+            </ul>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <form class="form-inline" asp-action="IndexBusqueda">
+            <div class="form-group float-start me-2">
+                <input type="search" name="nombre" placeholder="Buscar película" class="form-control" />
+            </div>
+            <div class="d-flex">
+                <button class="btn btn-outline-success float-end" type="submit">Buscar</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="row mt-3">
+    @if (Model.ListaPeliculas.Count() > 0)
+    {
+        @foreach (var pelicula in Model.ListaPeliculas)
+        {
+            <div class="col-sm-4">
+                <div class="card" style="width:18rem;">
+                    @if (pelicula.RutaImagen != null)
+                    {
+                        var base64 = Convert.ToBase64String(pelicula.RutaImagen);
+                        var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+                        <img src="@imgsrc" class="card-img-top" />
+                    }
+
+                    <div class="card-body">
+                        <h5 class="card-title">@pelicula.Nombre</h5>
+                        <p class="card-text">Duración: @pelicula.Duracion</p>
+                        <p class="card-text">Clasificación: @pelicula.Clasificacion</p>
+                        <p class="card-text">Fecha de creación: @pelicula.FechaCreacion</p>
+                        <p class="card-text">@pelicula.Descripcion</p>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No hay películas para mostrar</p>
+    }
+</div>

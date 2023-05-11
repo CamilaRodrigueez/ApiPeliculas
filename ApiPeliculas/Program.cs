@@ -117,12 +117,22 @@ builder.Services.AddCors(p => p.AddPolicy("PolicyCors", build =>
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+//if (app.Environment.IsDevelopment())
+//{
+//    app.UseSwagger();
+//    app.UseSwaggerUI(options =>
+//    {
+//        options.SwaggerEndpoint("/apiPeliculas/swagger/ApiPeliculasCategorias/swagger.json","API Categorias Películas");
+//        options.SwaggerEndpoint("/apiPeliculas/swagger/ApiPeliculas/swagger.json","API Películas");
+//        options.SwaggerEndpoint("/apiPeliculas/swagger/ApiPeliculasUsuarios/swagger.json","API Usuarios Películas");
+//        options.RoutePrefix = "";
+//    });
+//}
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
 app.UseHttpsRedirection();
 
 //Soporte para Cors 

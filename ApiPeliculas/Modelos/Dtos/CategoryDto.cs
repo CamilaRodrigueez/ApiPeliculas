@@ -10,6 +10,6 @@ namespace ApiPeliculas.Modelos.Dtos
         [MaxLength(30, ErrorMessage ="El número máximo de caracteres es 30")]
         public string Nombre { get; set; }
 
-        //public DateTime FechaCrecion { get; set; }
+        public DateTime FechaCrecion { get; set; }
     }
 }

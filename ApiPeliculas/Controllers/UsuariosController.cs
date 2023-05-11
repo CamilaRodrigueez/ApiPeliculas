@@ -28,7 +28,7 @@ namespace ApiPeliculas.Controllers
             _respuestaApi = new();
             _mapper = mapper;
         }
-
+       
         [Authorize(Roles = "admin")]
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
@@ -48,7 +48,7 @@ namespace ApiPeliculas.Controllers
             return Ok(listaUsuariosDto);
         }
 
-
+       
         [Authorize(Roles = "admin")]
         [HttpGet("{usuarioId}", Name = "GetUsuario")]
         [ProducesResponseType(StatusCodes.Status403Forbidden)]
@@ -69,7 +69,7 @@ namespace ApiPeliculas.Controllers
         }
         [AllowAnonymous]
         [HttpPost("registro")]
-        [ProducesResponseType(201, Type = typeof(CategoryDto))]
+        [ProducesResponseType(201, Type = typeof(UsuarioRegisterDto))]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
@@ -124,7 +124,7 @@ namespace ApiPeliculas.Controllers
             _respuestaApi.IsSuccess = true;
             _respuestaApi.Result = respuestaLoguin;
 
-            return BadRequest(_respuestaApi);
+            return Ok(_respuestaApi);
         }
 
 

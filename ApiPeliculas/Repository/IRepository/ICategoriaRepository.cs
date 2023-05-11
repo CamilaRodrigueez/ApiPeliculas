@@ -1,16 +1,18 @@
 ﻿using ApiPeliculas.Modelos;
-using ApiPeliculas.Modelos.Dtos;
 
 namespace ApiPeliculas.Repository.IRepository
 {
-    public interface IUsuarioRepository
+    public interface ICategoriaRepository
     {
-        ICollection<AppUser> GetUsuarios();
+        ICollection<Categoria> GetCategorias();
 
-        AppUser GetUsuario(string usuarioId);
-        bool IsUniqueUser(string nombreUsuario);
-        Task<UsuarioLoginResponseDto> Login(UsuarioLoginDto usuarioLoginDto );
-        Task<UsuarioDatosDto> Register(UsuarioRegisterDto usuarioRegisterDto);
-        //bool Guardar();
+        Categoria GetCategoria(int idCategoria);
+        bool ExistsCategory(string nombre);
+        bool ExistsCategory(int id);
+        bool CreateCategory(Categoria categoria);
+        bool UpdateCategory(Categoria categoria);
+        bool DeleteCategory(Categoria categoria);
+        bool Guardar();
     }
 }
+

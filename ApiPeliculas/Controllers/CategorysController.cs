@@ -61,6 +61,7 @@ namespace ApiPeliculas.Controllers
             var categoriaDto = _mapper.Map<CategoryDto>(categoria);
             return Ok(categoriaDto);
         }
+       
         [Authorize(Roles = "admin")]
         [HttpPost]
         [ProducesResponseType(201, Type = typeof(CategoryDto))]
@@ -91,7 +92,7 @@ namespace ApiPeliculas.Controllers
             }
             return CreatedAtRoute("GetCategoria", new { idCategoria = categoria.Id }, categoria);
         }
-        
+       
         [Authorize(Roles = "admin")]
         [HttpPatch("{idCategoria:int}", Name = "UpdateCategory")]
         [ProducesResponseType(201, Type = typeof(CategoryDto))]
@@ -116,7 +117,7 @@ namespace ApiPeliculas.Controllers
             }
             return NoContent();
         }
-
+     
         [Authorize(Roles = "admin")]
         [HttpDelete("{idCategoria:int}", Name = "DeleteCategory")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
@@ -137,6 +138,7 @@ namespace ApiPeliculas.Controllers
                 ModelState.AddModelError("", $"Algo salió mal eliminando el registro el registro {categoria.Nombre}");
                 return StatusCode(500, ModelState);
             }
+
             return NoContent();
         }
     }

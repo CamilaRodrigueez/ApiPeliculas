@@ -1,0 +1,46 @@
+﻿@model PeliculasWeb.Models.UsuarioAccount
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">Acceso de usuarios</h1>
+
+<div class="row mt-4">
+    <div class="col-sm-12">
+        @if (TempData["error"] != null)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                <strong>@TempData["error"]</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+        @if (TempData["success"] != null)
+        {
+            <div class="alert alert-success  alert-dismissible fade show" role="alert">
+                <strong>@TempData["success"]</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-6 offset-3">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group p-2">
+                <label for="Usuario">Usuario:</label>
+                <input type="text" asp-for="NombreUsuario" class="form-control" placeholder="Ingresa el usuario" />
+                <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+            </div>
+            <div class="form-group p-2">
+                <label for="contrasenia">Contraseña:</label>
+                <input type="password" asp-for="Password" class="form-control" placeholder="Ingresa la contraseña" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">INGRESAR</button>
+        </form>
+    </div>
+</div>
+

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso_Api_RESTFULL\\Api\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj": {}
+    "D:\\Curso_Api_RESTFULL\\Api\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj": {}
   },
   "projects": {
-    "C:\\Curso_Api_RESTFULL\\Api\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj": {
+    "D:\\Curso_Api_RESTFULL\\Api\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso_Api_RESTFULL\\Api\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
+        "projectUniqueName": "D:\\Curso_Api_RESTFULL\\Api\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
         "projectName": "ApiPeliculas",
-        "projectPath": "C:\\Curso_Api_RESTFULL\\Api\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
+        "projectPath": "D:\\Curso_Api_RESTFULL\\Api\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas.csproj",
         "packagesPath": "C:\\Users\\camila.rodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso_Api_RESTFULL\\Api\\ApiPeliculas\\ApiPeliculas\\obj\\",
+        "outputPath": "D:\\Curso_Api_RESTFULL\\Api\\ApiPeliculas\\ApiPeliculas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camila.rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",

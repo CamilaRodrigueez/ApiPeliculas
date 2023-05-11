@@ -71,6 +71,7 @@ namespace ApiPeliculas.Controllers
         /// </summary>
         /// <param name="insertPeliculaDto"></param>
         /// <returns></returns>
+        
         [Authorize(Roles = "admin")]
         [HttpPost]
         [ProducesResponseType(201, Type = typeof(PeliculaDto))]
@@ -108,6 +109,7 @@ namespace ApiPeliculas.Controllers
         /// <param name="peliculaId"></param>
         /// <param name="peliculaDto"></param>
         /// <returns></returns>
+       
         [Authorize(Roles = "admin")]
         [HttpPatch("{peliculaId:int}", Name = "UpdatePatPelicula")]
         [ProducesResponseType(204)]
@@ -133,7 +135,7 @@ namespace ApiPeliculas.Controllers
             }
             return NoContent();
         }
-
+       
         [Authorize(Roles = "admin")]
         [HttpDelete("{peliculaId:int}", Name = "DeletePelicula")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]

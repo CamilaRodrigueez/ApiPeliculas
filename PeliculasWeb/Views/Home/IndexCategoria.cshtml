@@ -1,0 +1,36 @@
+﻿@model IEnumerable<PeliculasWeb.Models.Pelicula>
+@{
+    ViewData["Title"] = "Filtrar películas en categoría";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row mt-3">
+    @if (Model.Count() > 0)
+    {
+        @foreach (var pelicula in Model)
+        {
+            <div class="col-sm-4">
+                <div class="card" style="width:18rem;">
+                    @if (pelicula.RutaImagen != null)
+                    {
+                        var base64 = Convert.ToBase64String(pelicula.RutaImagen);
+                        var imgsrc = string.Format("data:image/jpg;base64,{0}", base64);
+                        <img src="@imgsrc" class="card-img-top" />
+                    }
+
+                    <div class="card-body">
+                        <h5 class="card-title">@pelicula.Nombre</h5>
+                        <p class="card-text">Duración: @pelicula.Duracion</p>
+                        <p class="card-text">Clasificación: @pelicula.Clasificacion</p>
+                        <p class="card-text">Fecha de creación: @pelicula.FechaCreacion</p>
+                        <p class="card-text">@pelicula.Descripcion</p>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No hay películas para mostrar</p>
+    }
+</div>

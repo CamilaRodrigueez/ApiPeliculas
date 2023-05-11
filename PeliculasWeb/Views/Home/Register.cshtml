@@ -1,0 +1,38 @@
+﻿@model PeliculasWeb.Models.UsuarioRegister
+@{
+    ViewData["Title"] = "Registro de nuevo usuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center">Registro de nuevo usuario</h1>
+
+<div class="row">
+    <div class="col-sm-6 offset-3">
+        <form method="post" asp-action="Register">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group p-2">
+                <label for="Usuario">Usuario:</label>
+                <input type="text" asp-for="Nombre" class="form-control" placeholder="Ingresa el Nombre" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group p-2">
+                <label for="Usuario">Usuario:</label>
+                <input type="text" asp-for="NombreUsuario" class="form-control" placeholder="Ingresa el usuario" />
+                <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+            </div>
+            <div class="form-group p-2">
+                <label for="contrasenia">Contraseña:</label>
+                <input type="password" asp-for="Password" class="form-control" placeholder="Ingresa la contraseña" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group p-2">
+                <label for="contrasenia"> Confirmar Contraseña:</label>
+                <input type="password" asp-for="ConfirmPassword" class="form-control" placeholder="Confirmar Contraseña" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">REGISTRARSE</button>
+        </form>
+    </div>
+</div>

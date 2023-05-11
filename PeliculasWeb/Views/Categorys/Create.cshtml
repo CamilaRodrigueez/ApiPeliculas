@@ -1,0 +1,61 @@
+﻿@model PeliculasWeb.Models.Categoria
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container p-4">
+    <div class="row">
+        <div class="col-12">
+            <h2 class="text-primary">Crear una categoría</h2>
+        </div>
+    </div>
+    <br />
+    <br />
+
+    <div class="row">
+        <div class="col-sm-12">
+            <form method="post" asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Nombre"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Nombre" class="form-control" />
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group row p-2">
+                    <div class="col-8">
+                        <input id="fechaCreacion" type="text" asp-for="FechaCrecion" class="form-control" readonly />
+                    </div>
+                </div>
+
+                <div class="form-group row p-2">
+                    <div class="col-md-6">
+                        <button type="submit" class="btn btn-success form-control">Crear Categoría</button>
+                    </div>
+
+                    <div class="col-md-6">
+                        <a asp-action="Index" class="btn btn-secondary">Regresar</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <script>
+        $(function () {
+            $('#fechaCreacion').datepicker({
+                changeMonth: false,
+                changeYear: false,
+                yearRange: "1500:2023",
+                dateFormat: "yy-mm-dd"
+            }).datepicker("setDate", new Date())
+        })
+    </script>
+}
